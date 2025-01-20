@@ -1,0 +1,13 @@
+psycopg,init_pg_engine,0.014
+psycopg,create_pg_table,0.032
+pandas,read_parquet,0.287
+pandas,save_data_to_csv,0.01
+psycopg2,load_data_to_postgres_by_psycopg2_execute,0.47
+psycopg,create_pg_table,0.005
+psycopg2,load_data_to_postgres_by_psycopg2_execute_many,0.668
+psycopg,create_pg_table,0.011
+pandas,load_data_to_postgres_by_pandas_to_sql,0.074
+psycopg,create_pg_table,0.003
+psycopg2,load_data_to_postgres_by_psycopg_copy_expert,0.014
+psycopg,create_pg_table,0.003
+psycopg2,load_data_to_postgres_by_psycopg_copy_from,0.014
